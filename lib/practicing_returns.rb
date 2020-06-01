@@ -1,6 +1,4 @@
 require "pry"
-
-
 def hello(hello)
   i = 0
   while i < array.length
