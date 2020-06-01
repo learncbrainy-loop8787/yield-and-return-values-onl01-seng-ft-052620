@@ -1,6 +1,7 @@
 require "pry"
 
-def hello() {
+def hello(["Tim", "Tom", "Jim"]) {
+  |name| ""
   i = 0
   while i < array.length
     yield(array[i])
