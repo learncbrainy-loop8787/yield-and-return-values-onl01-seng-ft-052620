@@ -1,7 +1,7 @@
 require "pry"
 
 def hello(["Tim", "Tom", "Jim"]) {
-  |name| ""
+  |name| "Hi, #{name" }
   i = 0
   while i < array.length
     yield(array[i])
